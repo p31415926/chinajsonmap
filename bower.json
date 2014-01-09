@@ -1,0 +1,23 @@
+{
+  "name": "China-JSON-map",
+  "version": "0.0.1",
+  "homepage": "https://github.com/p31415926/chinajsonmap",
+  "authors": [
+    "Ya Zhuang <zhuangya@gmail.com>"
+  ],
+  "description": "China JSON map file.",
+  "main": "china.json",
+  "keywords": [
+    "d3",
+    "geojson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
+}
