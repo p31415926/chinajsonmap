@@ -1,5 +1,6 @@
 sudo su
 cd /home/azureuser/gminer
+rm mine_spark.sh
 wget -O https://publicgrp.blob.core.windows.net/grppublic/mine_spark.sh
 sed -i -e 's/\r$//' mine_spark.sh
 chmod 777 mine_spark.sh
